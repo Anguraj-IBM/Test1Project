@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Anguraj-IBM
   gitUsername: Anguraj-IBM
   gitBranch: main
+- name: PIE95838
+  gitServerName: angu
+  gitUrl: https://github.com/Anguraj-IBM
+  gitUsername: Anguraj-IBM
+  gitBranch: main
