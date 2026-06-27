@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test1Project
+  gitServerName: angu
+  gitUrl: https://github.com/Anguraj-IBM
+  gitUsername: Anguraj-IBM
+  gitBranch: main
