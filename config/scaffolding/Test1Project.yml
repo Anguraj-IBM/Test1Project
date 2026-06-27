@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/Anguraj-IBM
   gitUsername: Anguraj-IBM
   gitBranch: main
+- name: venusFlow
+  gitServerName: angu
+  gitUrl: https://github.com/Anguraj-IBM
+  gitUsername: Anguraj-IBM
+  gitBranch: main
